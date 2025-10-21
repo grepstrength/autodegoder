@@ -33,4 +33,4 @@ go run main.go
 
 ## Output
 
-The program creates a file named `decrypted_blobs.json` containing the decryption results in the following format saved in the same directory main.go runs. 
+The program creates a file named `decrypted_blobs.json` containing the decryption results saved in the same directory main.go runs. 
